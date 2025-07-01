@@ -37,12 +37,12 @@ More Functionality will be added with time
 
 # Home Section
 
-![5](https://github.com/user-attachments/assets/927f4b0b-26f6-4709-89b1-7547c99c67bb)
+![9](https://github.com/user-attachments/assets/207d4f1f-0e5b-4dfa-9359-0debd453ec77)
 
 
 # Resume Section 🖥
 
-![6](https://github.com/user-attachments/assets/ef2dcbf7-a704-4d7f-8b71-a96bb432f7ab)
+![8](https://github.com/user-attachments/assets/87995484-a82b-41e4-9647-6445aeb97913)
 
 
  # Skill Section 
@@ -52,13 +52,15 @@ More Functionality will be added with time
 
 # Projects Showcase 🚀
 
-![8](https://github.com/user-attachments/assets/87995484-a82b-41e4-9647-6445aeb97913)
+![6](https://github.com/user-attachments/assets/ef2dcbf7-a704-4d7f-8b71-a96bb432f7ab)
+
+
 
 
 
 # Contact Section 📞 
-![9](https://github.com/user-attachments/assets/207d4f1f-0e5b-4dfa-9359-0debd453ec77)
 
+![5](https://github.com/user-attachments/assets/927f4b0b-26f6-4709-89b1-7547c99c67bb)
 
 
 # Modern & Responsive Design 🎨 
