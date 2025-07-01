@@ -1,8 +1,8 @@
 # Personal_Portfolio_Website
 
-A dynamic personal portfolio built with ngular ,TypeScript , HTML, CSS . It features a responsive design, ensuring a seamless user experience across devices. The portfolio showcases my skills, projects, and experience in software engineering.
+A dynamic personal portfolio built with Angular ,TypeScript , HTML, CSS . It features a responsive design, ensuring a seamless user experience across devices. The portfolio showcases my skills, projects, and experience in software engineering.
 
-## Website-link: https://ajij120386.github.io/AjijPortfolio/
+## Website-link: 
 
 
 # Features
