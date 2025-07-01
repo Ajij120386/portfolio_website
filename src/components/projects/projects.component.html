@@ -1,0 +1,15 @@
+<div class="flex flex-col gap-6" id="projects">
+  <p class="text-3xl font-semibold">Projects.</p>
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
+
+    @for (project of projects; track project.id) {
+      <app-projectcard
+        [projectUrl]="project.projectUrl"
+        [id]="project.id"
+        [imgUrl]="project.imgUrl"
+        [description]="project.description"
+        [title]="project.title">
+      </app-projectcard>
+    }
+  </div>
+</div>

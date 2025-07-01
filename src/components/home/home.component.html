@@ -1,0 +1,41 @@
+<div class="flex flex-col gap-6" id="home">
+  <p class="text-3xl font-semibold contentType">About Me.</p>
+  <p class="inter-intro" #description>
+   I am a Full Stack Developer and competitive programmer with a degree in Information and Communication Engineering. I have experience building web applications like e-commerce sites, news portals, and portfolio websites using languages like C, C++, Python, PHP, JavaScript, and Angular. I’ve solved over 1400 problems on platforms like Codeforces, LeetCode, and CodeChef, and earned top ranks in several programming contests. I enjoy learning new technologies, sharing knowledge, 
+   and being part of developer communities that support growth and collaboration.
+  </p>
+  <p class="text-2xl font-medium subheading">My Tech Stack</p>
+  <div class="skill">
+    <div class="flex flex-col md:flex-row gap-4 items-stretch">
+      <div class="flex flex-col gap-4 flex-1">
+        @for (tech of techStackFirst; track tech.id) {
+        <div [ngClass]="themeType() === 'light' ? 'hover:bg-[#ebeff8]' : 'hover:bg-[#1B1B1B]'"
+          class="transition-all duration-300 rounded-2xl min-h-[150px] border border-gray-600/40 hover:border-indigo-500/70 shadow-sm hover:shadow-md hover:shadow-indigo-500/10 flex flex-row gap-4 p-5 flex-1 group backdrop-blur-sm">
+          <div>
+            <img [src]=tech.logo alt="" width="50" class="rounded-full shadow-md">
+          </div>
+          <div class="flex-1" data-scroll data-scroll-speed="1">
+            <p class="text-lg font-medium transition-colors duration-300">{{ tech.name }}</p>
+            <p class="text-sm">{{ tech.description }}</p>
+          </div>
+        </div>
+        }
+      </div>
+
+      <div class="flex flex-col gap-4 flex-1">
+        @for (tech of testStackSecond; track tech.id) {
+        <div [ngClass]="themeType() === 'light' ? 'hover:bg-[#ebeff8]' : 'hover:bg-[#1B1B1B]'"
+          class="transition-all duration-300 rounded-2xl min-h-[150px] border border-gray-600/40 hover:border-indigo-500/70 shadow-sm hover:shadow-md hover:shadow-indigo-500/10 flex flex-row gap-4 p-5 flex-1 group backdrop-blur-sm">
+          <div>
+            <img [src]=tech.logo alt="" width="50" class="rounded-full shadow-md">
+          </div>
+          <div class="flex-1">
+            <p class="text-lg font-medium transition-colors duration-300">{{ tech.name }}</p>
+            <p class="text-sm">{{ tech.description }}</p>
+          </div>
+        </div>
+        }
+      </div>
+    </div>
+  </div>
+</div>
