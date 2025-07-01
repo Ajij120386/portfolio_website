@@ -1,59 +1,75 @@
-# Frontend
+# Personal_Portfolio_Website
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
+A dynamic personal portfolio built with ngular ,TypeScript , HTML, CSS . It features a responsive design, ensuring a seamless user experience across devices. The portfolio showcases my skills, projects, and experience in software engineering.
 
-## Development server
+## Website-link: https://ajij120386.github.io/AjijPortfolio/
 
-To start a local development server, run:
 
-```bash
-ng serve
-```
+# Features
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Home Section ✔
+- About Section 🖥️
+- Experience Section ✔
+- Projects Showcase 🚀
+- Service Section ✔
+- Contact Section 📞 
+- Social Media Integration 🔗
+- Footer Section ✔
+- Modern & Responsive Design 🎨 
 
-## Code scaffolding
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+#### Note 
+More Functionality will be added with time
 
-```bash
-ng generate component component-name
-```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-```bash
-ng generate --help
-```
+## Tech
+-Angular 
+-Typescript
+- HTML
+- CSS
 
-## Building
 
-To build the project run:
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
+##Screen shots
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+# Home Section
 
-```bash
-ng test
-```
+![5](https://github.com/user-attachments/assets/927f4b0b-26f6-4709-89b1-7547c99c67bb)
 
-## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
+# Resume Section 🖥
 
-```bash
-ng e2e
-```
+![6](https://github.com/user-attachments/assets/ef2dcbf7-a704-4d7f-8b71-a96bb432f7ab)
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
-## Additional Resources
+ # Skill Section 
+ 
+ ![7](https://github.com/user-attachments/assets/c82d8476-d34b-49f7-b6b4-61106861b704)
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+# Projects Showcase 🚀
+
+![8](https://github.com/user-attachments/assets/87995484-a82b-41e4-9647-6445aeb97913)
+
+
+
+# Contact Section 📞 
+![9](https://github.com/user-attachments/assets/207d4f1f-0e5b-4dfa-9359-0debd453ec77)
+
+
+
+# Modern & Responsive Design 🎨 
+
+![Frontend - Google Chrome 7_2_2025 3_41_24 AM](https://github.com/user-attachments/assets/410494b8-e4a9-45e6-a902-db6ce7b1aa61)
+![Frontend - Google Chrome 7_2_2025 3_42_05 AM](https://github.com/user-attachments/assets/3315c185-e72c-4867-8694-5a1aa5ce54db)
+![Frontend - Google Chrome 7_2_2025 3_42_16 AM](https://github.com/user-attachments/assets/7c1d8d05-b370-4431-81a1-1ef5f65aeaee)
+![Frontend - Google Chrome 7_2_2025 3_42_37 AM](https://github.com/user-attachments/assets/462be605-ab0b-4ad3-a5a1-b5d7b17ac26c)
+
+
+
+## Authors
+
+- [Mohammad Ajij](https://github.com/Ajij120386)
